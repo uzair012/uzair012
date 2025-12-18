@@ -69,8 +69,3 @@ My focus is on **practical delivery**, clean updates, and collaboration with age
 
 📫 Open to collaboration on web & publishing projects
 
----
-
-## 📊 GitHub Stats
-![Uzair's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzair012&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uzair012&layout=compact)
